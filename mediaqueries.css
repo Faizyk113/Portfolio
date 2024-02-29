@@ -91,7 +91,7 @@
     }
 
     .sections--pic-container{
-        width: auto;
+        width: 20vh;
         height: 46vw;
         justify-content: center;
     }
